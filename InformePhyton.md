@@ -2,7 +2,7 @@
 
 # TrabajoPracticoGit
 
-## codigo
+## >codigo
 
 ~~~
 public static void main(String args[]){
